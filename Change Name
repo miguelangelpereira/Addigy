@@ -1,0 +1,4 @@
+#!/bin/bash
+scutil --set ComputerName "Name-Macbook"
+scutil --set HostName "Name-Macbook"
+scutil --set LocalHostName "Name-Macbook"
